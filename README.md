@@ -20,15 +20,7 @@ Here are some ideas to get you started:
     I'm very interested in Mobile development with Flutter, Web development and Data Science projects with Python.
     I'm currently learning to work with Python and developing Websites with VueJs and Bootstrap for my friends' companies.
   </samp>
+  <br><br>
+  <a href="https://t.me/marianaps">Telegram</a> | <a href="https://pralineso.page.link/linkedin">Linkedin</a> | <a href="https://pralineso.page.link/git">Portfolio</a>
 </p>
 
-<br>
-
-<p align="center">
-  <h3> 📫 How to reach me: </h3>
-  <samp>
-    <a href="https://t.me/marianaps">Telegram</a> 
-    - <a href="https://www.linkedin.com/in/mariaxa/">Linkedin</a> 
-    - <a href="https://www.linkedin.com/in/mariaxa/">Portfolio</a>
-  </samp>
- </p>
