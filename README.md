@@ -22,13 +22,13 @@ Here are some ideas to get you started:
     <br>
 		and I'm just another developer with ideas for new apps to the world 👩🏾‍💻
 		<br>
-    I'm very interested in Mobile development with Flutter, Web development and 
+    I'm very interested in Mobile development with Flutter and 
     <br>
     Data Science projects with Python. 
     <br>
-		I'm currently learning to work with Python and developing Websites 
+		I'm currently learning to work with Robotic Automation Process and  
 		<br>
-    with VueJs and Bootstrap for my friends' companies. ✨
+    		studying about Power BI. ✨
 	</samp>
 </p>
 
