@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 		<br>
     I'm very interested in Mobile development with Flutter and 
     <br>
-    Data Science projects with Python. 
-    <br>
-		I'm currently learning to work with Robotic Automation Process and  
-		<br>
-    		studying about Power BI. ✨
+    Data Science projects with Python. ✨
 	</samp>
 </p>
 
