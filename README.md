@@ -1,4 +1,3 @@
-### About Me 🐣
 <!--
 **pralineso/pralineso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,29 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi there!
 
-------------
+My name is Mariana.
 
-<p align="center">
-	<samp>
-		✨ Hello! my name is Mariana, 
-    <br>
-		and I'm just another developer with ideas for new apps to the world 👩🏾‍💻
-		<br>
-    I'm very interested in Mobile development with Flutter and 
-    <br>
-    Data Science projects with Python. ✨
-	</samp>
-</p>
+I'm a developer exploring Data Analytics projects.
 
-------------
+### ✨ About Me
 
-<br>
-<p align="center">
-<a href="https://t.me/marianaps"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://pralineso.page.link/linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://www.github.com/pralineso/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;<a href="https://pralineso.page.link/git"><img src="https://img.shields.io/badge/portfolio-%2376D04B.svg?&style=for-the-badge" /> </a>
-</p>
+- 👩🏾‍💻 Currently working as a Python developer and continuously improving my skills to enhance my work.
+- 📊 Learning Data Analytics, exploring its concepts, methods, and tools out of curiosity.
+- 🏗️ Building projects to develop my skills, applying what I’ve learned from courses.
 
+### 📌 Additional Links
 
-
-
- 
+- 🌱 Portfolio: [pralineso](https://pralineso.github.io/)
+- 💼 LinkedIn: [mariaxa](https://pralineso.page.link/linkedin)
